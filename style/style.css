@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body{
+  height: 100%;
+  background-color: rgb(26, 23, 23);
+  box-sizing: border-box;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+h1 {
+	color: #fff;
+	font-size: 75px;
+	text-align: center;
+	margin: 1rem 0 3rem; 
+}
+
+input,
+button {
+  margin: 35px 0;
+  padding: 5px 15px;
+}
+
+li {
+  padding-left: 25px;
+  font-size: 30px;
+}
+
+li .todos {
+  padding: 0 20px;
+  color: #fff;
+}
+
+li {
+  padding-left: 25px;
+  color: rgb(196, 28, 28);
+}
+
+i {
+  padding: 5%;
+  position: right;
+
+}
